@@ -1,0 +1,7 @@
+{
+    "display_name": "Multiplayer Co-op",
+    "author": "Nutho",
+    "version": "1.0.0",
+    "js": "index.js",
+    "generate_interceptor": "mpInterceptor"
+}
