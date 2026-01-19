@@ -1,7 +1,11 @@
 {
     "display_name": "Multiplayer Co-op",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
     "author": "Nutho",
     "version": "1.0.0",
     "js": "index.js",
-    "generate_interceptor": "mpInterceptor"
+    "generate_interceptor": "multiplayerInterceptor"
+
 }
